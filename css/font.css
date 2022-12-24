@@ -1,0 +1,8 @@
+@font-face {
+  font-family: Byekan;
+  src: url(../assets/fonts/B_Yekan/Yekan.ttf);
+}
+
+body, button, a, input, textarea, ::placeholder{
+  font-family: Byekan;
+}
